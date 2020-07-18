@@ -2,6 +2,7 @@
 public class Array3D {
 
 	public static void main(String[] args) {
+		System.out.println("Printing 3d array");
 		
 		int[][][] array = new int [2][3][4];
 		
